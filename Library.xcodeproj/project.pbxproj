@@ -7,21 +7,77 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F0083F220314DE80094CFF9 /* Books.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083F120314DE80094CFF9 /* Books.plist */; };
+		2F00840F20314E110094CFF9 /* angels-demons.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083F420314E110094CFF9 /* angels-demons.jpg */; };
+		2F00841020314E110094CFF9 /* azkaban.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083F520314E110094CFF9 /* azkaban.jpg */; };
+		2F00841120314E110094CFF9 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083F620314E110094CFF9 /* background.jpg */; };
+		2F00841220314E110094CFF9 /* bard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083F720314E110094CFF9 /* bard.jpg */; };
+		2F00841320314E110094CFF9 /* bilbo-song.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083F820314E110094CFF9 /* bilbo-song.png */; };
+		2F00841420314E110094CFF9 /* blindsight.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083F920314E110094CFF9 /* blindsight.png */; };
+		2F00841520314E110094CFF9 /* brain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083FA20314E110094CFF9 /* brain.jpg */; };
+		2F00841620314E110094CFF9 /* chamber.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083FB20314E110094CFF9 /* chamber.jpg */; };
+		2F00841720314E110094CFF9 /* da-vinci-code.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083FC20314E110094CFF9 /* da-vinci-code.jpg */; };
+		2F00841820314E110094CFF9 /* deception-point.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083FD20314E110094CFF9 /* deception-point.jpg */; };
+		2F00841920314E110094CFF9 /* digital-fortress.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083FE20314E110094CFF9 /* digital-fortress.jpg */; };
+		2F00841A20314E110094CFF9 /* fatal-cure.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0083FF20314E110094CFF9 /* fatal-cure.jpeg */; };
+		2F00841B20314E110094CFF9 /* fellowship.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840020314E110094CFF9 /* fellowship.jpg */; };
+		2F00841C20314E110094CFF9 /* fever.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840120314E110094CFF9 /* fever.jpg */; };
+		2F00841D20314E110094CFF9 /* goblet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840220314E110094CFF9 /* goblet.jpg */; };
+		2F00841E20314E110094CFF9 /* hallows.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840320314E110094CFF9 /* hallows.jpg */; };
+		2F00841F20314E110094CFF9 /* intervention.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840420314E110094CFF9 /* intervention.jpg */; };
+		2F00842020314E110094CFF9 /* invasion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840520314E110094CFF9 /* invasion.jpg */; };
+		2F00842120314E110094CFF9 /* lost-symbol.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840620314E110094CFF9 /* lost-symbol.jpg */; };
+		2F00842220314E110094CFF9 /* phoenix.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840720314E110094CFF9 /* phoenix.jpg */; };
+		2F00842320314E110094CFF9 /* prince.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840820314E110094CFF9 /* prince.jpg */; };
+		2F00842420314E110094CFF9 /* return-king.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840920314E110094CFF9 /* return-king.jpg */; };
+		2F00842520314E110094CFF9 /* shock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840A20314E110094CFF9 /* shock.jpg */; };
+		2F00842620314E110094CFF9 /* sphinx.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840B20314E110094CFF9 /* sphinx.jpeg */; };
+		2F00842720314E110094CFF9 /* stone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840C20314E110094CFF9 /* stone.jpg */; };
+		2F00842820314E110094CFF9 /* the-hobbit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840D20314E110094CFF9 /* the-hobbit.jpg */; };
+		2F00842920314E110094CFF9 /* two-towers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F00840E20314E110094CFF9 /* two-towers.jpg */; };
 		2FA793D92031372800726984 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA793D82031372800726984 /* AppDelegate.swift */; };
-		2FA793DB2031372800726984 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA793DA2031372800726984 /* ViewController.swift */; };
 		2FA793DE2031372800726984 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FA793DC2031372800726984 /* Main.storyboard */; };
 		2FA793E02031372800726984 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FA793DF2031372800726984 /* Assets.xcassets */; };
 		2FA793E32031372800726984 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FA793E12031372800726984 /* LaunchScreen.storyboard */; };
+		2FA793ED20313B9F00726984 /* AuthorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA793EC20313B9F00726984 /* AuthorsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F0083F120314DE80094CFF9 /* Books.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Books.plist; sourceTree = "<group>"; };
+		2F0083F420314E110094CFF9 /* angels-demons.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "angels-demons.jpg"; sourceTree = "<group>"; };
+		2F0083F520314E110094CFF9 /* azkaban.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = azkaban.jpg; sourceTree = "<group>"; };
+		2F0083F620314E110094CFF9 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		2F0083F720314E110094CFF9 /* bard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bard.jpg; sourceTree = "<group>"; };
+		2F0083F820314E110094CFF9 /* bilbo-song.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bilbo-song.png"; sourceTree = "<group>"; };
+		2F0083F920314E110094CFF9 /* blindsight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blindsight.png; sourceTree = "<group>"; };
+		2F0083FA20314E110094CFF9 /* brain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brain.jpg; sourceTree = "<group>"; };
+		2F0083FB20314E110094CFF9 /* chamber.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chamber.jpg; sourceTree = "<group>"; };
+		2F0083FC20314E110094CFF9 /* da-vinci-code.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "da-vinci-code.jpg"; sourceTree = "<group>"; };
+		2F0083FD20314E110094CFF9 /* deception-point.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "deception-point.jpg"; sourceTree = "<group>"; };
+		2F0083FE20314E110094CFF9 /* digital-fortress.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "digital-fortress.jpg"; sourceTree = "<group>"; };
+		2F0083FF20314E110094CFF9 /* fatal-cure.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fatal-cure.jpeg"; sourceTree = "<group>"; };
+		2F00840020314E110094CFF9 /* fellowship.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fellowship.jpg; sourceTree = "<group>"; };
+		2F00840120314E110094CFF9 /* fever.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fever.jpg; sourceTree = "<group>"; };
+		2F00840220314E110094CFF9 /* goblet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = goblet.jpg; sourceTree = "<group>"; };
+		2F00840320314E110094CFF9 /* hallows.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hallows.jpg; sourceTree = "<group>"; };
+		2F00840420314E110094CFF9 /* intervention.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = intervention.jpg; sourceTree = "<group>"; };
+		2F00840520314E110094CFF9 /* invasion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = invasion.jpg; sourceTree = "<group>"; };
+		2F00840620314E110094CFF9 /* lost-symbol.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "lost-symbol.jpg"; sourceTree = "<group>"; };
+		2F00840720314E110094CFF9 /* phoenix.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = phoenix.jpg; sourceTree = "<group>"; };
+		2F00840820314E110094CFF9 /* prince.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = prince.jpg; sourceTree = "<group>"; };
+		2F00840920314E110094CFF9 /* return-king.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "return-king.jpg"; sourceTree = "<group>"; };
+		2F00840A20314E110094CFF9 /* shock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shock.jpg; sourceTree = "<group>"; };
+		2F00840B20314E110094CFF9 /* sphinx.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sphinx.jpeg; sourceTree = "<group>"; };
+		2F00840C20314E110094CFF9 /* stone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stone.jpg; sourceTree = "<group>"; };
+		2F00840D20314E110094CFF9 /* the-hobbit.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "the-hobbit.jpg"; sourceTree = "<group>"; };
+		2F00840E20314E110094CFF9 /* two-towers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "two-towers.jpg"; sourceTree = "<group>"; };
 		2FA793D52031372800726984 /* Library.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Library.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FA793D82031372800726984 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		2FA793DA2031372800726984 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2FA793DD2031372800726984 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2FA793DF2031372800726984 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FA793E22031372800726984 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FA793E42031372800726984 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FA793EC20313B9F00726984 /* AuthorsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthorsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +91,50 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2F0083F020314DB40094CFF9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2F0083F320314DF20094CFF9 /* Images */,
+				2F0083F120314DE80094CFF9 /* Books.plist */,
+			);
+			name = Resources;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		2F0083F320314DF20094CFF9 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				2F0083F420314E110094CFF9 /* angels-demons.jpg */,
+				2F0083F520314E110094CFF9 /* azkaban.jpg */,
+				2F0083F620314E110094CFF9 /* background.jpg */,
+				2F0083F720314E110094CFF9 /* bard.jpg */,
+				2F0083F820314E110094CFF9 /* bilbo-song.png */,
+				2F0083F920314E110094CFF9 /* blindsight.png */,
+				2F0083FA20314E110094CFF9 /* brain.jpg */,
+				2F0083FB20314E110094CFF9 /* chamber.jpg */,
+				2F0083FC20314E110094CFF9 /* da-vinci-code.jpg */,
+				2F0083FD20314E110094CFF9 /* deception-point.jpg */,
+				2F0083FE20314E110094CFF9 /* digital-fortress.jpg */,
+				2F0083FF20314E110094CFF9 /* fatal-cure.jpeg */,
+				2F00840020314E110094CFF9 /* fellowship.jpg */,
+				2F00840120314E110094CFF9 /* fever.jpg */,
+				2F00840220314E110094CFF9 /* goblet.jpg */,
+				2F00840320314E110094CFF9 /* hallows.jpg */,
+				2F00840420314E110094CFF9 /* intervention.jpg */,
+				2F00840520314E110094CFF9 /* invasion.jpg */,
+				2F00840620314E110094CFF9 /* lost-symbol.jpg */,
+				2F00840720314E110094CFF9 /* phoenix.jpg */,
+				2F00840820314E110094CFF9 /* prince.jpg */,
+				2F00840920314E110094CFF9 /* return-king.jpg */,
+				2F00840A20314E110094CFF9 /* shock.jpg */,
+				2F00840B20314E110094CFF9 /* sphinx.jpeg */,
+				2F00840C20314E110094CFF9 /* stone.jpg */,
+				2F00840D20314E110094CFF9 /* the-hobbit.jpg */,
+				2F00840E20314E110094CFF9 /* two-towers.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		2FA793CC2031372700726984 = {
 			isa = PBXGroup;
 			children = (
@@ -54,12 +154,13 @@
 		2FA793D72031372800726984 /* Library */ = {
 			isa = PBXGroup;
 			children = (
+				2F0083F020314DB40094CFF9 /* Resources */,
 				2FA793D82031372800726984 /* AppDelegate.swift */,
-				2FA793DA2031372800726984 /* ViewController.swift */,
 				2FA793DC2031372800726984 /* Main.storyboard */,
 				2FA793DF2031372800726984 /* Assets.xcassets */,
 				2FA793E12031372800726984 /* LaunchScreen.storyboard */,
 				2FA793E42031372800726984 /* Info.plist */,
+				2FA793EC20313B9F00726984 /* AuthorsViewController.swift */,
 			);
 			path = Library;
 			sourceTree = "<group>";
@@ -123,9 +224,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F00841E20314E110094CFF9 /* hallows.jpg in Resources */,
+				2F00841620314E110094CFF9 /* chamber.jpg in Resources */,
+				2F00842920314E110094CFF9 /* two-towers.jpg in Resources */,
+				2F00842420314E110094CFF9 /* return-king.jpg in Resources */,
+				2F00841220314E110094CFF9 /* bard.jpg in Resources */,
 				2FA793E32031372800726984 /* LaunchScreen.storyboard in Resources */,
+				2F00842620314E110094CFF9 /* sphinx.jpeg in Resources */,
+				2F00842720314E110094CFF9 /* stone.jpg in Resources */,
+				2F00842020314E110094CFF9 /* invasion.jpg in Resources */,
+				2F00842220314E110094CFF9 /* phoenix.jpg in Resources */,
+				2F00841D20314E110094CFF9 /* goblet.jpg in Resources */,
 				2FA793E02031372800726984 /* Assets.xcassets in Resources */,
+				2F00842120314E110094CFF9 /* lost-symbol.jpg in Resources */,
+				2F00841820314E110094CFF9 /* deception-point.jpg in Resources */,
+				2F00841120314E110094CFF9 /* background.jpg in Resources */,
+				2F00841320314E110094CFF9 /* bilbo-song.png in Resources */,
+				2F00842320314E110094CFF9 /* prince.jpg in Resources */,
+				2F00841A20314E110094CFF9 /* fatal-cure.jpeg in Resources */,
+				2F00841020314E110094CFF9 /* azkaban.jpg in Resources */,
+				2F00840F20314E110094CFF9 /* angels-demons.jpg in Resources */,
+				2F00842820314E110094CFF9 /* the-hobbit.jpg in Resources */,
 				2FA793DE2031372800726984 /* Main.storyboard in Resources */,
+				2F00841B20314E110094CFF9 /* fellowship.jpg in Resources */,
+				2F00842520314E110094CFF9 /* shock.jpg in Resources */,
+				2F00841C20314E110094CFF9 /* fever.jpg in Resources */,
+				2F0083F220314DE80094CFF9 /* Books.plist in Resources */,
+				2F00841720314E110094CFF9 /* da-vinci-code.jpg in Resources */,
+				2F00841920314E110094CFF9 /* digital-fortress.jpg in Resources */,
+				2F00841520314E110094CFF9 /* brain.jpg in Resources */,
+				2F00841F20314E110094CFF9 /* intervention.jpg in Resources */,
+				2F00841420314E110094CFF9 /* blindsight.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,8 +265,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FA793DB2031372800726984 /* ViewController.swift in Sources */,
 				2FA793D92031372800726984 /* AppDelegate.swift in Sources */,
+				2FA793ED20313B9F00726984 /* AuthorsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +389,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Library/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ahmadgh.Library;
@@ -272,6 +402,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Library/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ahmadgh.Library;
@@ -299,6 +430,7 @@
 				2FA793E92031372800726984 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
